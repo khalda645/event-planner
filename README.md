@@ -1,4 +1,4 @@
-Hi there! I created a little event-planner for my Hyperion Bootcamp in web dev! I thoroughly enjoyed building this project.
+Hi there! I created a little event planner for my Hyperion Bootcamp in web dev! I thoroughly enjoyed building this project.
 
 I used:
 React, JavaScript, HTML, CSS in addition to Formik, React Router, LocalStorage and of course github!
