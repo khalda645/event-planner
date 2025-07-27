@@ -1,12 +1,8 @@
-# React + Vite
+Hi there! I created a little event-planner for my Hyperion Bootcamp in web dev! I thoroughly enjoyed building this project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I used:
+React, JavaScript, HTML, CSS in addition to Formik, React Router, LocalStorage and of course github!
 
-Currently, two official plugins are available:
+These tools allowed me to create pages for login, registration, management of events, navigation help, a dashboard and a lovely colour scheme. Users are able to add, edit, delete and track their events :D
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Small disclaimer: After I initially uploaded my files when I started, I did not nptice i had to keep pushing my project on here as I went along.
